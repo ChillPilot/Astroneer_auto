@@ -14,7 +14,7 @@
 3. 按下退格键开始自动点击，放在背包的功能键上。
 4. 在点击过程中，按下任意键停止。
 
-## 打包说明
+## 打包说明（忽略）
 使用以下命令打包程序（需要安装 PyInstaller）：
 ```bash
 pyinstaller --onefile --windowed --icon=Astroneer.ico Click.py
